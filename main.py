@@ -1,2 +1,2 @@
-a = 10
-bbb = 10
+name = Batman
+age:secret
